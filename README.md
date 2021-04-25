@@ -26,12 +26,24 @@ $ npm install
 # build
 $ npm run build
 
-# development
-$ npm run start
-
-# watch mode
-$ npm run start:dev
-
 # production mode
 $ npm run start:prod
+```
+
+## To Develop & Debug
+
+Install nestjs globally using the following command
+```
+npm i -g @nestjs/cli
+```
+After installing nestjs use the below commands 
+```
+# start server
+$ npm run start
+
+# start server in watch mode
+$ npm run start:dev
+
+# start server in watch mode with debugging enabled
+$ npm run start:debug
 ```
