@@ -2,7 +2,7 @@
 
 ## Description
 
-Used to manage users and tasks.<br>
+Get stock symbol analysis and news using [rapidapi yahoo finance api](https://rapidapi.com/apidojo/api/yahoo-finance1).<br>
 Build using [Nest](https://github.com/nestjs/nest) framework.
 
 ## Swagger
